@@ -5,6 +5,9 @@
 TLDR; 
 Buy [Waveshare ESP32-S3-Touch-LCD-1.28](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.28) and install firmware **[directly from your browser →](https://artbit.github.io/budz/)** — no software needed, works in Chrome and Edge.
 
+
+https://github.com/user-attachments/assets/4023890d-0d22-4e19-ac4c-59fcfbbc474f
+
 ## Bill of Materials
 
 | Qty | Part | Notes | Price |
